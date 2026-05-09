@@ -1,8 +1,8 @@
-# 🚀 Machine Learning Projects Portfolio
+# Machine Learning Projects Portfolio
 
 Welcome to my Machine Learning portfolio! This repository is a collection of various data science and machine learning projects, ranging from exploratory data analysis (EDA) to advanced predictive modeling.
 
-## 📊 Project Gallery
+## Project Gallery
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -13,18 +13,18 @@ Welcome to my Machine Learning portfolio! This repository is a collection of var
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 - **Languages:** Python 🐍
 - **ML Frameworks:** Scikit-learn, XGBoost, TensorFlow (coming soon)
 - **Data Manipulation:** Pandas 🐼, NumPy 🔢
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Techniques:** Feature Engineering, Hyperparameter Tuning, Class Imbalance Handling, Time-Series Analysis
 
-## 📈 Roadmap
+## Roadmap
 - [ ] Add Deep Learning projects (CNNs, RNNs)
 - [ ] Implement Natural Language Processing (NLP) models
 - [ ] Deploy models using Flask/FastAPI
 - [ ] Integrate interactive dashboards (Streamlit)
 
 ---
-*Created with ❤️ by Anshul.*
+*Created by Anshul Kumaria.*
